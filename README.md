@@ -5,7 +5,7 @@
      
 - 🌱 I’m currently learning ...
   <br>***Java***</br>
-  <br>***Python***
+  <br>***Python***</br>
   <br>***HTML/CSS***</br>
   <br>***Javascript***</br>
   <br>***Assembly***</br>
