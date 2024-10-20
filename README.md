@@ -4,25 +4,25 @@
   Backend/Frontend
      
 - 🌱 I’m currently learning ...
-  ***Java***
-  ***Python***
-  ***HTML/CSS***
-  ***Javascript***
-  ***Assembly***
-  ***Git***
+  <br>***Java***</br>
+  <br>***Python***
+  <br>***HTML/CSS***</br>
+  <br>***Javascript***</br>
+  <br>***Assembly***</br>
+  <br>***Git***</br>
      
 - 📫 How to reach me ...
-  Facebook: [https://www.facebook.com/markeron.diaz/](url)
-  LinkedIn: [https://www.linkedin.com/in/mark-eron-diaz-496704306/](url)
+  <br>Facebook: [https://www.facebook.com/markeron.diaz/](url)</br>
+  <br>LinkedIn: [https://www.linkedin.com/in/mark-eron-diaz-496704306/](url)</br>
   
 - 💞️ I’m looking to collaborate on ...
-  New Projects
+  <br>New Projects</br>
   
 - 😄 Pronouns: ...
-  He/Him
+  <br>He/Him</br>
   
 - ⚡ Fun fact: ...
-  I study at FEUTech
+  <br>I study at FEUTech</br>
 
 <!---
 Eewonn/Eewonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
