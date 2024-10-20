@@ -26,5 +26,8 @@
 I am currently studying at FEU Tech and have a passion for problem-solving and creating efficient software solutions.
 
 ---
-
+### Github Stats:
 ![Eewonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&theme=radical)
+
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eewonn&layout=compact&theme=radical)
