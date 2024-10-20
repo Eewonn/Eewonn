@@ -21,14 +21,8 @@
 
 ---
 
-### 😄 **Pronouns**: He/Him  
-### ⚡ **Fun fact**:  
-I am currently studying at FEU Tech and have a passion for problem-solving and creating efficient software solutions.
+### Github Stats:
+![Eewonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&theme=radical)
 
----
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&theme=radical" alt="Eewonn's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eewonn&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-
-</div>
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eewonn&layout=compact&theme=radical)
