@@ -12,8 +12,10 @@
   <br>***Git***
      
 - 📫 How to reach me ...
-  <br>Facebook: [https://www.facebook.com/markeron.diaz/](url)</br>
-  <br>LinkedIn: [https://www.linkedin.com/in/mark-eron-diaz-496704306/](url)</br>
+  <br>LinkedIn: [https://www.linkedin.com/in/mark-eron-diaz-496704306/](url)
+  <br>Facebook: [https://www.facebook.com/markeron.diaz/](url)
+  <br>Instagram: [https://www.instagram.com/mrk.ern/](url)
+  
   
 - 💞️ I’m looking to collaborate on ...
   <br>New Projects</br>
