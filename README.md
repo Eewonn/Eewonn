@@ -4,12 +4,12 @@
   Backend/Frontend
      
 - 🌱 I’m currently learning ...
-  <br>***Java***</br>
-  <br>***Python***</br>
-  <br>***HTML/CSS***</br>
-  <br>***Javascript***</br>
-  <br>***Assembly***</br>
-  <br>***Git***</br>
+  <br>***Java***
+  <br>***Python***
+  <br>***HTML/CSS***
+  <br>***Javascript***
+  <br>***Assembly***
+  <br>***Git***
      
 - 📫 How to reach me ...
   <br>Facebook: [https://www.facebook.com/markeron.diaz/](url)</br>
