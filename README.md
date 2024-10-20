@@ -1,32 +1,30 @@
-- 👋 Hi, I’m @Eewonn
+### 👋 Hi, I’m Eron (@Eewonn)
+  
+- 👀 **Interested in**: Full-stack development (Backend/Frontend)
+- 🌱 **Currently learning**:
+  - Java
+  - Python
+  - HTML/CSS
+  - JavaScript
+  - Assembly Language
+  - Git & Version Control
 
-- 👀 I’m interested in ...
-  Backend/Frontend
-     
-- 🌱 I’m currently learning ...
-  <br>***Java***
-  <br>***Python***
-  <br>***HTML/CSS***
-  <br>***Javascript***
-  <br>***Assembly***
-  <br>***Git***
-     
-- 📫 How to reach me ...
-  <br>LinkedIn: [https://www.linkedin.com/in/mark-eron-diaz-496704306/](url)
-  <br>Facebook: [https://www.facebook.com/markeron.diaz/](url)
-  <br>Instagram: [https://www.instagram.com/mrk.ern/](url)
-  
-  
-- 💞️ I’m looking to collaborate on ...
-  <br>New Projects</br>
-  
-- 😄 Pronouns: ...
-  <br>He/Him</br>
-  
-- ⚡ Fun fact: ...
-  <br>I study at FEUTech</br>
+- 💼 **Looking to collaborate on**: Exciting new projects, open-source contributions, and innovative software solutions.
 
-<!---
-Eewonn/Eewonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📫 **Connect with me**:
+  
+- [LinkedIn](https://www.linkedin.com/in/mark-eron-diaz-496704306/)  
+- [Facebook](https://www.facebook.com/markeron.diaz/)  
+- [Instagram](https://www.instagram.com/mrk.ern/)  
+
+---
+
+### 😄 **Pronouns**: He/Him  
+### ⚡ **Fun fact**:  
+I am currently studying at FEU Tech and have a passion for problem-solving and creating efficient software solutions.
+
+---
+
+![Eewonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&theme=radical)
