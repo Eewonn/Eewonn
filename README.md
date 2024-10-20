@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @Eewonn
 
 - 👀 I’m interested in ...
-  1. Backend/Frontend
+  Backend/Frontend
      
 - 🌱 I’m currently learning ...
-  1. Java
-  2. Python
-  3. HTML/CSS
-  4. Javascript
-  5. Assembly
+  ***Java***
+  ***Python***
+  ***HTML/CSS***
+  ***Javascript***
+  ***Assembly***
+  ***Git***
      
 - 📫 How to reach me ...
   Facebook: [https://www.facebook.com/markeron.diaz/](url)
