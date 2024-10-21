@@ -3,6 +3,7 @@
 - 👀 **Interested in**: Full-stack development (Backend/Frontend)
 - 🌱 **Currently learning**:
   - Java
+  - C++
   - Python
   - HTML/CSS
   - JavaScript
