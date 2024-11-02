@@ -11,6 +11,7 @@
   - Git & Version Control
   - Postgresql
   - Oracle sql
+  - Lua
 
 - 💼 **Looking to collaborate on**: Exciting new projects, open-source contributions, and innovative software solutions.
 
