@@ -16,22 +16,11 @@ I’m passionate about building **AI-driven solutions**, exploring **cybersecuri
 
 ---
 
-### Recent Projects
-- **[TinyLaVA/TinyLaVA_Factory](https://github.com/Eewonn)** – Small-scale multimodal AI models (Python)  
-- **[Copilot Metrics Dashboard](https://github.com/Eewonn)** – Visualizing GitHub Copilot metrics (TypeScript)  
-- **[Tavily Sheets](https://github.com/Eewonn)** – LLM-powered spreadsheet automation (TypeScript)  
-- **[Meeting Prep Agent](https://github.com/Eewonn)** – AI assistant for research notes & scheduling (Python)  
-
----
-
 ### Stats & Activity
-#### 3D Commit Streak
-![Eewonn's 3D Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eewonn&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&theme=radical&count_private=true)
 
-#### Pull Request Activity
 ![GitHub Pull Requests](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=issues,stars,followers)
 
-#### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eewonn&layout=compact&theme=radical)
 
 ---
