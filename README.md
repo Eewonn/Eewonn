@@ -25,9 +25,14 @@ I’m passionate about building **AI-driven solutions**, exploring **cybersecuri
 ---
 
 ### Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eewonn&layout=compact&theme=radical)  
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Eewonn&theme=react-dark&hide_title=true&custom_title=Contribution%20Activity)
+#### 3D Commit Streak
+![Eewonn's 3D Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eewonn&theme=radical&hide_border=false)
+
+#### Pull Request Activity
+![GitHub Pull Requests](https://github-readme-stats.vercel.app/api?username=Eewonn&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=issues,stars,followers)
+
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eewonn&layout=compact&theme=radical)
 
 ---
 
