@@ -7,6 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/mark-eron-diaz-496704306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://flowcv.com/resume/ksf2dn7gr3vu"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-read%20online-a78bfa?style=flat-square&labelColor=1a1b27&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <a href="https://github.com/Eewonn?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-33-8b5cf6?style=flat-square&labelColor=1a1b27&logo=github&logoColor=white" alt="repos" /></a>
 <a href="https://github.com/Eewonn?tab=followers"><img src="https://img.shields.io/github/followers/Eewonn?style=flat-square&color=8b5cf6&labelColor=1a1b27&label=followers" alt="followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=Eewonn&style=flat-square&color=8b5cf6&label=profile+views" alt="views" />
@@ -160,6 +161,7 @@ $ tokei --all-repos --top 9        # 3.7 MB of source across 33 public repos
 
 **Let's build something.**
 
+<a href="https://flowcv.com/resume/ksf2dn7gr3vu"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-a78bfa?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/mark-eron-diaz-496704306/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/markeron.diaz/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.instagram.com/mrk.ern/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
